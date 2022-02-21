@@ -1,1 +1,1 @@
-# Tranfer data from SQL Server to Amazon s3 Bucket
+# Transferring Data from SQL Server to Amazon s3 Bucket
